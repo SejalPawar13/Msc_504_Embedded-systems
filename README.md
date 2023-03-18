@@ -1,2 +1,2 @@
 # Msc_504_Embedded-systems
-Es practicals
+sem 2 Es practicals
